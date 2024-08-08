@@ -19,7 +19,7 @@ This application provides a user-friendly interface for encoding and decoding te
    git clone https://github.com/ebadmahar/EncodeDecode-py.git
 2. **Navigate to the project directory:**
    ```sh
-   cd encoder-decoder
+   cd EncodeDecode-py
 3. **Install the required dependencies:**
    ```sh
    pip install -r requirements.txt
